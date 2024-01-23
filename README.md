@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishuman, You can call me Mann.
 - 👀 I’m interested in Data Science and Artificial intelligence...
-- 🌱 I’m currently learning Python, Data Analytics, Finance domain, Machine Learning, Deep Learning, NLP, Genrativa AI.
-- 💞️ I’m looking to collaborate on Project Related to Data Science, python, and AI. For Learning perpose Only.
+- 🌱 I’m currently learning Python, Data Analytics, Finance domain, Machine Learning, Deep Learning, NLP, and Generative AI.
+- 💞️ I’m looking to collaborate on a Project Related to Data Science, python, and AI. For Learning Purposes Only.
 - 📫 Reach me on[linkedin](https://www.linkedin.com/in/ishuman17/), [Twitter](https://twitter.com/Ishumanagarwal).
 - 👀 See my [kaggle](https://www.kaggle.com/imprime) profile.
 
